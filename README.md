@@ -1,6 +1,7 @@
 # AITools
 <img src="Pic.png">
 This lets you change AIPerception component values for Sight and Hearing using a simple blueprint node.
+Supported Version 4.25. But you can auto compile to any version as source is included.
 
 ### Installation
 1. Extract the Plugins folder in your project root directory
@@ -9,6 +10,7 @@ This lets you change AIPerception component values for Sight and Hearing using a
 
 Before using this please make sure that you have initial Sight and Hearing present
 <img src="check.png">
+
 
 
 ### License
