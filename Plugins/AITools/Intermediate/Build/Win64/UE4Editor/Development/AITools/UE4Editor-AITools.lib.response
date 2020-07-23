@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AITools.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Max\Documents\Unreal Projects\MyProject2\Intermediate\Build\Win64\MyProject2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Max\Documents\Unreal Projects\MyProject2\Plugins\AITools\Intermediate\Build\Win64\UE4Editor\Development\AITools\Module.AITools.cpp.obj"
+"C:\Users\Max\Documents\Unreal Projects\MyProject2\Plugins\AITools\Intermediate\Build\Win64\UE4Editor\Development\AITools\Module.AITools.gen.cpp.obj"
+"C:\Users\Max\Documents\Unreal Projects\MyProject2\Plugins\AITools\Intermediate\Build\Win64\UE4Editor\Development\AITools\Default.rc2.res"
+/OUT:"C:\Users\Max\Documents\Unreal Projects\MyProject2\Plugins\AITools\Intermediate\Build\Win64\UE4Editor\Development\AITools\UE4Editor-AITools.lib"
+/INCLUDE:IMPLEMENT_MODULE_AITools

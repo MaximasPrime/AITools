@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AITools.cpp.obj": [
+			"AITools.cpp.obj",
+			"AIToolsBPLibrary.cpp.obj"
+		],
+		"Module.AITools.gen.cpp.obj": [
+			"AITools.init.gen.cpp.obj",
+			"AIToolsBPLibrary.gen.cpp.obj"
+		]
+	}
+}
