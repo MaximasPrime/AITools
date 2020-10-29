@@ -1,3 +1,4 @@
+[![discord](https://img.shields.io/discord/735642528727957516?style=flat-square&logo=discord "Discord")](https://discord.gg/cJDV4F5)
 # AITools
 <img src="Pic.png">
 This lets you change AIPerception component values for Sight and Hearing using a simple blueprint node.
